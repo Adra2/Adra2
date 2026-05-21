@@ -1,28 +1,73 @@
-# 👋 Hi, I'm Carola!
+<div align="center">
 
-I’m an engineering student with a focus on **control** and **electronics**, passionate about problem-solving, teamwork, and thriving in fast-paced environments. I specialize in **robotics**, **automation**, and **process management**, applying theoretical knowledge to real-world challenges.
+# Carola
 
-### 🚀 Key Projects an Experience
-- **Minigame Platform (2022)**  
-  Created a Python minigame platform with four games, allowing users to choose difficulty and mode.  
-  - **Tools**: Python
- 
-- **Autonomous Navigation System (ROS2)**  
-  Developed a process manager for an autonomous navigation system as part of my **final undergraduate project** at **Sener Aerospace and Defense**. This project involved creating solutions for real-time navigation challenges and sensor integration.
-  
-- **RESET Robotics Association**  
-  Since 2021, I’ve been actively involved in **RESET**, UPM’s robotics association, where I collaborate on team projects, refining my **problem-solving**, **teamwork**, and **creativity** through hands-on robotics development.
+**Control & Electronics Engineering · Robotics · Automation**
 
+[![UPM](https://img.shields.io/badge/UPM-Engineering-0057A8?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.upm.es)
+[![RESET Robotics](https://img.shields.io/badge/RESET-Robotics%20Association-E63946?style=flat-square&logo=robot&logoColor=white)](https://github.com)
+[![ROS2](https://img.shields.io/badge/ROS2-Autonomous%20Navigation-22223B?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org)
 
-### 🔧 Technologies and Skills
+</div>
 
-- **Languages**: C/C++, Python, VHDL, AVR, Latex
-- **Tools**: Matlab, Simulink, ROS2, LTSpice, PLECS, Fusion 360, Solid Edge, MS Office  
-- **Skills**: Electronics, Robotics, Process Management, Circuit Design, Control Systems
-- **Areas of Expertise**: Automation, Electronics, Robotics, Real-time systems
+---
 
-### 🌱 What I'm Working On
-I am currently exploring advanced **robotic automation systems** and their applications in **autonomous navigation** and **control systems**.
+## About me
 
+I'm an engineering student specialising in **control systems** and **electronics**, currently wrapping up my undergraduate thesis at **Sener Aerospace and Defense**. I'm drawn to problems that sit at the intersection of hardware and software — where theory has to survive contact with the real world.
 
-Feel free to check out my repositories and projects below!
+Outside coursework I've been part of **RESET**, UPM's robotics association, since 2021. Building things with a team under pressure is where I do my best thinking.
+
+---
+
+## Experience & Projects
+
+### 🛰️ Autonomous Navigation System · *Final Undergraduate Project*
+> Sener Aerospace and Defense
+
+Designed and implemented a **process manager** for an autonomous navigation system built on **ROS2**. The work focused on real-time decision-making, sensor integration, and fault-tolerant process orchestration.
+
+`ROS2` `C++` `Python` `Real-time systems` `Sensor fusion`
+
+---
+
+### 🤖 RESET Robotics Association · *2021 – Present*
+> UPM, Madrid
+
+Active member of UPM's official robotics association. Collaborated on team robotics projects covering mechanics, electronics, and software — from concept to competition.
+
+`Teamwork` `Embedded systems` `Prototyping` `Problem-solving`
+
+---
+
+### 🎮 Minigame Platform · *2022*
+
+Python application hosting four minigames with selectable difficulty and game modes. Built as a full end-to-end project: game logic, UI flow, and user input handling.
+
+`Python`
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Languages** | C · C++ · Python · VHDL · AVR Assembly · LaTeX |
+| **Simulation & Control** | MATLAB · Simulink · LTSpice · PLECS |
+| **Robotics** | ROS2 |
+| **CAD** | Fusion 360 · Solid Edge |
+| **Domains** | Control Systems · Electronics · Robotics · Automation · Real-time Systems · Circuit Design |
+
+---
+
+## Currently exploring
+
+Advanced robotic automation — specifically autonomous navigation architectures and their control layers. Always looking for projects where precision and reliability aren't optional.
+
+---
+
+<div align="center">
+
+*Feel free to browse my repositories below.*
+
+</div>
