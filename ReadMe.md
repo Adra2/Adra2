@@ -83,6 +83,20 @@ Designed and executed a **Monte Carlo simulation of a Pressurised Water Reactor 
 
 ---
 
+### 📡 OsciBoard — Wien Bridge Oscillator · *UPM · [repo](https://github.com/PalouJaume/OsciBoard)*
+> In collaboration with [@PalouJaume](https://github.com/PalouJaume)
+
+Full mixed-signal system built around a **Wien Bridge Oscillator** generating a 10 kHz sinusoidal signal, designed to measure and display both frequency and amplitude digitally.
+
+- Designed the **analog front-end**: Wien Bridge Oscillator with variable gain, precision full-wave rectifier (Schottky diodes), and a two-pole low-pass filter for amplitude extraction
+- Built the **signal conditioning chain** to bring the output within 0–3.3 V for safe ADC sampling
+- Implemented the **digital back-end in VHDL** on a PYNQ-Z2 (Xilinx): XADC at 1 MSPS, frequency counter, Double Dabble binary-to-BCD converter, and 7-segment display driver
+- Simulated in **LTSpice** and synthesized in **Vivado**; PCB designed from scratch in **KiCad**
+
+`VHDL` `LTSpice` `KiCad` `Vivado` `Analog design` `PCB` `FPGA` `Mixed-signal`
+
+---
+
 ### 🎮 Minigame Platform · *2022*
 
 Python application hosting four minigames with selectable difficulty and game modes.
