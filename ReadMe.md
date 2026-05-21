@@ -47,7 +47,7 @@ Part of IIT's team in the **EcoCAR Mobility Challenge**, working on connected an
 
 ---
 
-### 🤖 RESET Robotics Association · *2021 – 2024*
+### 🤖 RESET Robotics Association · *2021 – 2025*
 > UPM, Madrid
 
 Active member of UPM's official robotics association. Collaborated on team robotics projects covering mechanics, electronics, and software from concept through to competition.
@@ -84,7 +84,7 @@ Designed and executed a **Monte Carlo simulation of a Pressurised Water Reactor 
 ---
 
 ### 📡 OsciBoard — Wien Bridge Oscillator · *UPM · [repo](https://github.com/PalouJaume/OsciBoard)*
-> In collaboration with [@PalouJaume](https://github.com/PalouJaume)
+> In collaboration with [@PalouJaume](https://github.com/PalouJaume) · Feb 2025 – May 2025
 
 Full mixed-signal system built around a **Wien Bridge Oscillator** generating a 10 kHz sinusoidal signal, designed to measure and display both frequency and amplitude digitally.
 
